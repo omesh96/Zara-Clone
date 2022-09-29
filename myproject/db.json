@@ -641,5 +641,223 @@
        "id":51
    }
 
+  ],
+  "NEW":[
+    {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":1,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    }, {
+        "image_url": "https://static.zara.net/photos///2021/V/0/1/p/4424/159/800/2/w/444/4424159800_6_1_1.jpg?ts=1611826835336",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":2,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/250/2/w/444/4424959250_6_1_1.jpg?ts=1635870678626",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":3,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":4,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4424/959/400/2/w/204/4424959400_6_1_1.jpg?ts=1647509002867",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":5,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/600/2/w/204/4424959600_6_1_1.jpg?ts=1626770913505",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":6,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/628/2/w/204/2335159628_6_1_1.jpg?ts=1643814558901",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":7,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
+        "name": "CROPPED T-SHIRT",
+        "price": "₹ 590.00",
+        "id":8,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3625/910/040/2/w/563/3625910040_1_1_1.jpg?ts=1649414620546",
+        "name": "TIED LEATHER FLAT SANDALS",
+        "price": "₹ 2,590.00",
+        "id":9,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3606/910/030/2/w/563/3606910030_6_1_1.jpg?ts=1646323428285",
+        "name": "FLAT STRAPPY SANDALS",
+        "price": "₹ 2,590.00",
+        "id":10,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2631/910/040/2/w/563/2631910040_2_1_1.jpg?ts=1649414612449",
+        "name": "BUCKLED LEATHER FLAT SANDALS",
+        "price": "₹ 5,990.00",
+        "id":11,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    },
+ 
+ 
+    {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1355/810/040/12/w/563/1355810040_1_1_1.jpg?ts=1649764298463",
+        "name": "LEATHER BLOCK HEEL SANDALS",
+        "price": "₹ 4,990.00",
+        "id":12,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1215/910/078/2/w/563/1215910078_1_1_1.jpg?ts=1649411244397",
+        "name": "BRAIDED HIGH HEEL MULES",
+        "price": "₹ 4,990.00",
+        "id":13,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    },
+ 
+    {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1802/910/098/2/w/563/1802910098_1_1_1.jpg?ts=1649411244839",
+        "name": "FLAT PLAITED MULES",
+        "price": "₹ 4,590.00",
+        "id":14,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1507/910/009/2/w/563/1507910009_1_1_1.jpg?ts=1649411243557",
+        "name": "WOVEN SLINGBACK BALLET FLATS",
+        "price": "₹ 4,590.00",
+        "id":15,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2532/910/040/12/w/563/2532910040_1_1_1.jpg?ts=1649420578050",
+        "name": "EMBELLISHED FLAT SLINGBACK SHOES",
+        "price": "₹ 5,990.00",
+        "id":16,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2348/910/098/2/w/563/2348910098_1_1_1.jpg?ts=1649082496147",
+        "name": "EMBELLISHED PLATFORM SANDALS",
+        "price": "₹ 5,990.00",
+        "id":17,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5347/910/001/2/w/563/5347910001_6_1_1.jpg?ts=1648812666145",
+        "name": "LEATHER TRAINERS",
+        "price": "₹ 4,590.00",
+        "id":18,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    },
+    {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_1_1_1.jpg?ts=1648653833690",
+        "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+        "price": "₹ 2,890.00",
+        "id":19,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_6_1_1.jpg?ts=1647361021844",
+        "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+        "price": "₹ 2,890.00",
+        "id":20,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3267/913/300/2/w/444/3267913300_2_1_1.jpg?ts=1648125127818",
+        "name": "EMBROIDERED MINI SKIRT",
+        "price": "₹ 3,990.00",
+         "id":21,
+         "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+     
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3026/922/250/2/w/444/3026922250_2_1_1.jpg?ts=1648124019968",
+        "name": "SHORT FRILLED SKIRT",
+        "price": "₹ 4,990.00",
+        "id":22,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2551/636/800/2/w/444/2551636800_1_1_1.jpg?ts=1645029267256",
+        "name": "DRAPED MIDI SKIRT",
+        "price": "₹ 2,990.00",
+        "id":23,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/081/405/2/w/444/8197081405_2_2_1.jpg?ts=1647596637239",
+        "name": "DENIM SKIRT",
+        "price": "₹ 1,990.00",
+        "id":24,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/444/4387063450_1_1_1.jpg?ts=1647857914009",
+        "name": "LINEN CAPE SKIRT",
+        "price": "₹ 3,990.00",
+        "id":25,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/9878/105/942/2/w/444/9878105942_1_1_1.jpg?ts=1648203490724",
+        "name": "FRILLED MINI SKIRT",
+        "price": "₹ 2,890.00",
+        "id":26,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/525/500/2/w/444/3013525500_2_1_1.jpg?ts=1646221585099",
+        "name": "SKORT WITH SLIT DETAIL ",
+        "price": "₹ 2,890.00",
+        "id":27,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/542/251/2/w/444/3013542251_1_1_1.jpg?ts=1646067227375",
+        "name": "SKORT WITH SLIT DETAIL",
+        "price": "₹ 2,890.00",
+        "id":28,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7969/051/400/2/w/444/7969051400_1_1_1.jpg?ts=1649153597309",
+        "name": "SEQUINNED MIDI SKIRT",
+        "price": "₹ 4,990.00",
+        "id":29,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }, {
+        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3391/685/712/2/w/444/3391685712_1_1_1.jpg?ts=1649232267241",
+        "name": "DRAPED SATIN SKIRT",
+        "price": "₹ 2,590.00",
+        "id":30,
+        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    
+    }
   ]
 }
