@@ -840,6 +840,7 @@
       "name": "CROPPED T-SHIRT",
       "price": 590,
       "id": 6,
+      "quantity": 1,
       "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
       "side_title": "MATERIALS, CARE AND ORIGIN",
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
@@ -854,6 +855,7 @@
       "name": "CROPPED T-SHIRT",
       "price": 590,
       "id": 7,
+      "quantity": 1,
       "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
       "side_title": "MATERIALS, CARE AND ORIGIN",
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
@@ -868,6 +870,7 @@
       "name": "CROPPED T-SHIRT",
       "price": 590,
       "id": 8,
+      "quantity": 1,
       "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
       "side_title": "MATERIALS, CARE AND ORIGIN",
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
@@ -882,6 +885,7 @@
       "name": "TIED LEATHER FLAT SANDALS",
       "price": 2590,
       "id": 9,
+      "quantity": 1,
       "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
       "side_title": "MATERIALS, CARE AND ORIGIN",
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
@@ -896,6 +900,7 @@
       "name": "FLAT STRAPPY SANDALS",
       "price": 2590,
       "id": 10,
+      "quantity": 1,
       "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
       "side_title": "MATERIALS, CARE AND ORIGIN",
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
@@ -910,6 +915,7 @@
       "name": "BUCKLED LEATHER FLAT SANDALS",
       "price": 5990,
       "id": 11,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -922,6 +928,7 @@
       "name": "LEATHER BLOCK HEEL SANDALS",
       "price": 4990,
       "id": 12,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -934,6 +941,7 @@
       "name": "BRAIDED HIGH HEEL MULES",
       "price": 4990,
       "id": 13,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -946,6 +954,7 @@
       "name": "FLAT PLAITED MULES",
       "price": 4590,
       "id": 14,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -958,6 +967,7 @@
       "name": "WOVEN SLINGBACK BALLET FLATS",
       "price": 4590,
       "id": 15,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -970,6 +980,7 @@
       "name": "EMBELLISHED FLAT SLINGBACK SHOES",
       "price": 5990,
       "id": 16,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -982,6 +993,7 @@
       "name": "EMBELLISHED PLATFORM SANDALS",
       "price": 5990,
       "id": 17,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -994,6 +1006,7 @@
       "name": "LEATHER TRAINERS",
       "price": 4590,
       "id": 18,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1006,6 +1019,7 @@
       "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
       "price": 2899,
       "id": 19,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1018,6 +1032,7 @@
       "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
       "price": 2899,
       "id": 20,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1030,6 +1045,7 @@
       "name": "EMBROIDERED MINI SKIRT",
       "price": 3990,
       "id": 21,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1042,6 +1058,7 @@
       "name": "SHORT FRILLED SKIRT",
       "price": 4990,
       "id": 22,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1054,6 +1071,7 @@
       "name": "DRAPED MIDI SKIRT",
       "price": 2990,
       "id": 23,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1066,6 +1084,7 @@
       "name": "DENIM SKIRT",
       "price": 1999,
       "id": 24,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1078,6 +1097,7 @@
       "name": "LINEN CAPE SKIRT",
       "price": 3990,
       "id": 25,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1090,6 +1110,7 @@
       "name": "FRILLED MINI SKIRT",
       "price": 2899,
       "id": 26,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1102,6 +1123,7 @@
       "name": "SKORT WITH SLIT DETAIL ",
       "price": 2899,
       "id": 27,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1114,6 +1136,7 @@
       "name": "SKORT WITH SLIT DETAIL",
       "price": 2899,
       "id": 28,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1126,6 +1149,7 @@
       "name": "SEQUINNED MIDI SKIRT",
       "price": 4990,
       "id": 29,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     },
     {
@@ -1138,6 +1162,7 @@
       "name": "DRAPED SATIN SKIRT",
       "price": 2590,
       "id": 30,
+      "quantity": 1,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
     }
   ],
@@ -1148,6 +1173,7 @@
       "price": 590,
       "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front.",
       "id": 1,
+     
       "quantity": 4
     },
     {
@@ -1200,4 +1226,5 @@
       "id": 3
     }
   ]
+
 }

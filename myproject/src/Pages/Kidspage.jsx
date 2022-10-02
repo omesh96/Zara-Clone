@@ -1,23 +1,19 @@
+import { Button, Heading } from "@chakra-ui/react"
 import { useEffect } from "react"
 import { useContext } from "react"
+import { NavLink, useNavigate } from "react-router-dom"
 import { AuthContext } from "../allpagecontext/Allpagecontext"
 
 function KidsPage(){
-    const {state,dispatch,KIDS_PAGE,UNMOUNT_KIDS_PAGE}=useContext(AuthContext)
-
-    useEffect(()=>{
-        dispatch(KIDS_PAGE)
-        console.log(`mount kids page`)
-       const unmountkidspage=()=>{
-        return dispatch(UNMOUNT_KIDS_PAGE),
-        console.log(`unmount kids page`)
-       }
-       return unmountkidspage
-    },[])
+    const navigate=useNavigate()
     return (
-        <>
-         <h1>Kids</h1>
-        </>
+        <div style={{position:"relative",top:"350px" }}>
+            <Heading>Soory this page is under construction <br />
+              meanwhile you can go to <NavLink style={{color:"blue"}}  to="/">Womens Section</NavLink>
+            </Heading>
+            <Button colorScheme='whatsapp' bg="black"  w="300px" mt="20px" onClick={()=>navigate("/")}>HOME PAGE</Button>
+        </div>
     )
+    
 }
 export default KidsPage

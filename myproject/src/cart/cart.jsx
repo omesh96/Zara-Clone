@@ -5,6 +5,7 @@ import { AuthContext } from "../allpagecontext/Allpagecontext"
 import { GetCartdata, getchangetotalprice, getqtydata, Putqty, removefromcart } from "./addtocartapi"
 import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
 import Totalpricecomponent from "../totalprice"
+import {useNavigate} from "react-router-dom"
  
  function Cart(){
  const {state,dispatch,CART_DATA_REQUEST,CART_DATA_SUCCESS,CART_DATA_FAILURE} =useContext(AuthContext)
@@ -15,6 +16,7 @@ import Totalpricecomponent from "../totalprice"
  const { isOpen, onOpen, onClose } = useDisclosure()
  const cancelRef = useRef()
  const [ispayment,setispayment]=useState(false)
+ const navigate=useNavigate()
 
  useEffect(()=>{
         handlegetcartdata()
@@ -138,16 +140,18 @@ import Totalpricecomponent from "../totalprice"
           alignItems='center'
           justifyContent='center'
           textAlign='center'
-          height='200px'
+          height='400px'
         >
-          <AlertIcon boxSize='40px' mr={0} />
+          <AlertIcon boxSize='30px' mr={0}  />
           <AlertTitle mt={4} mb={1} fontSize='lg'>
-            Application submitted!
+            Payment Recieved
           </AlertTitle>
           <AlertDescription maxWidth='sm'>
-            Thanks for submitting your application. Our team will get back to you soon.
+            <Heading color="tomato">Thanks for Shopping With Us.</Heading> <br /> Our team will get back to you soon.
           </AlertDescription>
-          <Button>Ok</Button>
+          
+          <Button colorScheme='whatsapp' bg="black"  w="300px" mt="10px" onClick={()=>navigate("/")} >
+            Keep Shopping</Button>
         </Alert>
       }
 

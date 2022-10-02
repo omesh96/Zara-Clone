@@ -4,6 +4,7 @@ import Cart from "../cart/cart"
 import Login from "../components/Loginpage"
 import Signup from "../components/signup"
 import WomensDetails from "../insidewomenspage/womensdetails"
+import { Notfound } from "../notfoundpage"
 import KidsPage from "../Pages/Kidspage"
 import Menspage from "../Pages/Menspage"
 import Womenspage from "../Pages/womenspage"
@@ -21,7 +22,8 @@ import Singleproductpage from "../singleproductpage/singleproductpage"
             <Route path="/singleproduct/:id" element={<Singleproductpage />}></Route>
             <Route path="/cart" element={<PrivateRoute><Cart /></PrivateRoute>}></Route>
             <Route path="/signup" element={<Signup />}></Route>
-
+            <Route path="/womensdetails" element={<WomensDetails />}></Route>
+            <Route path="*" element={<Notfound />}></Route>
          </Routes>
          </>
     )

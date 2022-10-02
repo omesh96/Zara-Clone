@@ -22,7 +22,7 @@ function Navbar(){
   
     return (
         <div className={styles.mobilenav}>
-        <Flex border={"1px solid black"} minWidth='max-content' alignItems='center' gap='2' >
+        <Flex  minWidth='max-content' alignItems='center' gap='2' >
   <Box p='10'>
    <Flex gap="4">
 
