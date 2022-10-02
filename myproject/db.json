@@ -1,863 +1,1168 @@
 {
-    "womansshoes" : [
-       {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3625/910/040/2/w/563/3625910040_1_1_1.jpg?ts=1649414620546",
-       "name": "TIED LEATHER FLAT SANDALS",
-       "price": "₹ 2,590.00",
-       "id":1
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3606/910/030/2/w/563/3606910030_6_1_1.jpg?ts=1646323428285",
-       "name": "FLAT STRAPPY SANDALS",
-       "price": "₹ 2,590.00",
-       "id":2
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2631/910/040/2/w/563/2631910040_2_1_1.jpg?ts=1649414612449",
-       "name": "BUCKLED LEATHER FLAT SANDALS",
-       "price": "₹ 5,990.00",
-       "id":3
-   },
-
-
-   {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1355/810/040/12/w/563/1355810040_1_1_1.jpg?ts=1649764298463",
-       "name": "LEATHER BLOCK HEEL SANDALS",
-       "price": "₹ 4,990.00",
-       "id":4
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1215/910/078/2/w/563/1215910078_1_1_1.jpg?ts=1649411244397",
-       "name": "BRAIDED HIGH HEEL MULES",
-       "price": "₹ 4,990.00",
-       "id":5
-   },
-
-   {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1802/910/098/2/w/563/1802910098_1_1_1.jpg?ts=1649411244839",
-       "name": "FLAT PLAITED MULES",
-       "price": "₹ 4,590.00",
-       "id":6
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1507/910/009/2/w/563/1507910009_1_1_1.jpg?ts=1649411243557",
-       "name": "WOVEN SLINGBACK BALLET FLATS",
-       "price": "₹ 4,590.00",
-       "id":7
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2532/910/040/12/w/563/2532910040_1_1_1.jpg?ts=1649420578050",
-       "name": "EMBELLISHED FLAT SLINGBACK SHOES",
-       "price": "₹ 5,990.00",
-       "id":8
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2348/910/098/2/w/563/2348910098_1_1_1.jpg?ts=1649082496147",
-       "name": "EMBELLISHED PLATFORM SANDALS",
-       "price": "₹ 5,990.00",
-       "id":9
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5347/910/001/2/w/563/5347910001_6_1_1.jpg?ts=1648812666145",
-       "name": "LEATHER TRAINERS",
-       "price": "₹ 4,590.00",
-       "id":10
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5301/810/001/2/w/563/5301810001_6_1_1.jpg?ts=1649781426547",
-       "name": "TRAINERS",
-       "price": "₹ 2,590.00",
-        "id":11
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5300/810/202/2/w/563/5300810202_6_1_1.jpg?ts=1649781549157",
-       "name": "TRAINERS",
-       "price": "₹ 2,590.00",
-       "id":12
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2804/910/040/2/w/563/2804910040_6_1_1.jpg?ts=1643044582794",
-       "name": "FLAT SANDALS",
-       "price": "₹ 4,590.00",
-        "id":13
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3607/710/087/2/w/563/3607710087_1_1_1.jpg?ts=1646240935877",
-       "name": "FLAT SANDALS WITH METAL CHAIN DETAIL",
-       "price": "₹ 2,990.00",
-       "id":14
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2230/910/060/2/w/563/2230910060_1_1_1.jpg?ts=1646745690240",
-       "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
-       "price": "₹ 5,990.00",
-       "id":15
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2228/910/009/2/w/563/2228910009_1_1_1.jpg?ts=1646745690007",
-       "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
-       "price": "₹ 5,990.00",
-       "id":16
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2228/910/060/3/w/563/2228910060_1_1_1.jpg?ts=1647001732675",
-       "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
-       "price": "₹ 5,990.00",
-       "id":17
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5108/910/202/2/w/563/5108910202_1_1_1.jpg?ts=1646309081470",
-       "name": "SOFT TRAINERS",
-       "price": "₹ 3,590.00",
-       "id":18
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5112/910/001/2/w/563/5112910001_6_1_1.jpg?ts=1646219870046",
-       "name": "CHUNKY SOLE TRAINERS",
-       "price": "₹ 4,590.00",
-       "id":19
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3329/910/030/2/w/563/3329910030_6_1_1.jpg?ts=1643099135389",
-       "name": "VINYL SANDALS WITH METHACRYLATE HEELS",
-       "price": "₹ 2,990.00",
-        "id":20
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3329/910/098/2/w/563/3329910098_6_1_1.jpg?ts=1643044372807",
-       "name": "VINYL SANDALS WITH METHACRYLATE HEELS",
-       "price": "₹ 2,990.00",
-       "id":21
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/I/1/1/p/1327/810/050/2/w/563/1327810050_1_1_1.jpg?ts=1621425042166",
-       "name": "LEATHER HEELED SANDALS WITH JUTE INSOLE",
-       "price": "₹ 4,990.00",
-       "id":22
-   }
-
-],
-  "womansskirts":[
-   {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_1_1_1.jpg?ts=1648653833690",
-       "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
-       "price": "₹ 2,890.00",
-       "id":1
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_6_1_1.jpg?ts=1647361021844",
-       "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
-       "price": "₹ 2,890.00",
-       "id":2
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3267/913/300/2/w/444/3267913300_2_1_1.jpg?ts=1648125127818",
-       "name": "EMBROIDERED MINI SKIRT",
-       "price": "₹ 3,990.00",
-        "id":3
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3026/922/250/2/w/444/3026922250_2_1_1.jpg?ts=1648124019968",
-       "name": "SHORT FRILLED SKIRT",
-       "price": "₹ 4,990.00",
-       "id":4
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2551/636/800/2/w/444/2551636800_1_1_1.jpg?ts=1645029267256",
-       "name": "DRAPED MIDI SKIRT",
-       "price": "₹ 2,990.00",
-       "id":5
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/081/405/2/w/444/8197081405_2_2_1.jpg?ts=1647596637239",
-       "name": "DENIM SKIRT",
-       "price": "₹ 1,990.00",
-       "id":6
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/444/4387063450_1_1_1.jpg?ts=1647857914009",
-       "name": "LINEN CAPE SKIRT",
-       "price": "₹ 3,990.00",
-       "id":7
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/9878/105/942/2/w/444/9878105942_1_1_1.jpg?ts=1648203490724",
-       "name": "FRILLED MINI SKIRT",
-       "price": "₹ 2,890.00",
-       "id":8
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/525/500/2/w/444/3013525500_2_1_1.jpg?ts=1646221585099",
-       "name": "SKORT WITH SLIT DETAIL ",
-       "price": "₹ 2,890.00",
-       "id":9
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/542/251/2/w/444/3013542251_1_1_1.jpg?ts=1646067227375",
-       "name": "SKORT WITH SLIT DETAIL",
-       "price": "₹ 2,890.00",
-       "id":10
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7969/051/400/2/w/444/7969051400_1_1_1.jpg?ts=1649153597309",
-       "name": "SEQUINNED MIDI SKIRT",
-       "price": "₹ 4,990.00",
-       "id":11
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3391/685/712/2/w/444/3391685712_1_1_1.jpg?ts=1649232267241",
-       "name": "DRAPED SATIN SKIRT",
-       "price": "₹ 2,590.00",
-       "id":12
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3353/660/800/2/w/444/3353660800_2_3_1.jpg?ts=1649254187481",
-       "name": "STRETCHY LINEN BLEND SKIRT",
-       "price": "₹ 2,590.00",
-       "id":13
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8342/008/050/2/w/444/8342008050_1_1_1.jpg?ts=1649254187129",
-       "name": "FLORAL MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":14
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7385/058/445/2/w/444/7385058445_6_1_1.jpg?ts=1648725679460",
-       "name": "POLKA DOT MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":15
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/089/400/2/w/444/8197089400_2_2_1.jpg?ts=1645526196686",
-       "name": "DENIM MIDI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":16
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3223/332/250/2/w/444/3223332250_1_1_1.jpg?ts=1647592904715",
-       "name": "DRAPED MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":17
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3223/636/645/2/w/444/3223636645_2_1_1.jpg?ts=1647446114321",
-       "name": "DRAPED MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":18
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/12/w/444/2731051250_1_1_1.jpg?ts=1648126716498",
-       "name": "EMBROIDERED LONG SKIRT",
-       "price": "₹ 6,990.00",
-       "id":19
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/191/406/2/w/444/8197191406_2_1_1.jpg?ts=1647969866284",
-       "name": "DENIM MIDI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":20
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2221/575/617/2/w/444/2221575617_1_1_1.jpg?ts=1646667522153",
-       "name": "HIGH-WAIST MINI SKIRT",
-       "price": "₹ 2,890.00",
-       "id":21
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2789/157/500/2/w/444/2789157500_2_3_1.jpg?ts=1646653404322",
-       "name": "PRINTED SHORT SKIRT",
-       "price": "₹ 2,890.00",
-       "id":22
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2789/157/500/12/w/444/2789157500_1_1_1.jpg?ts=1646653459459",
-       "name": "PRINTED SHORT SKIRT",
-       "price": "₹ 2,890.00",
-       "id":23
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8351/039/330/2/w/444/8351039330_2_10_1.jpg?ts=1645522459443",
-       "name": "TEXTURED SKIRT WITH FAUX PEARL BEAD BUTTON DETAIL",
-       "price": "₹ 2,590.00",
-       "id":24
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3564/079/251/2/w/444/3564079251_2_10_1.jpg?ts=1645521927213",
-       "name": "SHINY BUCKLED MINI SKIRT",
-       "price": "₹ 2,990.00",
-       "id":25
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/2/w/444/2731051250_1_1_1.jpg?ts=1646757797945",
-       "name": "EMBROIDERED LONG SKIRT",
-       "price": "₹ 6,990.00",
-       "id":26
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4786/054/064/2/w/444/4786054064_1_1_1.jpg?ts=1646757801802",
-       "name": "EMBROIDERED MIDI SKIRT",
-       "price": "₹ 5,990.00",
-       "id":27
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2221/575/617/3/w/444/2221575617_1_1_1.jpg?ts=1646845619173",
-       "name": "HIGH-WAIST MINI SKIRT",
-       "price": "₹ 2,890.00",
-       "id":28
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3008/042/710/2/w/444/3008042710_15_1_1.jpg?ts=1645012947566",
-       "name": "EMBROIDERED MIDI SKIRT",
-       "price": "₹ 4,990.00",
-       "id":29
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4886/049/712/2/w/444/4886049712_1_1_1.jpg?ts=1648126605473",
-       "name": "PLEATED SKIRT WITH EMBROIDERY",
-       "price": "₹ 7,990.00",
-       "id":30
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2397/142/713/2/w/444/2397142713_1_1_1.jpg?ts=1645012958645",
-       "name": "EMBROIDERED LONG SKIRT",
-       "price": "₹ 5,990.00",
-       "id":31
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3666/064/093/2/w/444/3666064093_2_2_1.jpg?ts=1646743002371",
-       "name": "PRINTED SATIN SKIRT",
-       "price": "₹ 2,890.00",
-       "id":32
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/047/506/2/w/444/4387047506_2_1_1.jpg?ts=1646743011944",
-       "name": "SATIN WRAP SKIRT",
-       "price": "₹ 2,890.00",
-       "id":33
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3564/078/800/2/w/444/3564078800_2_1_1.jpg?ts=1645519660221",
-       "name": "DRAPED MIDI SKIRT",
-       "price": "₹ 2,890.00",
-       "id":34
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/070/500/2/w/444/2731070500_2_4_1.jpg?ts=1646384242202",
-       "name": "EMBROIDERED LINEN BLEND CAPE SKIRT",
-       "price": "₹ 4,990.00",
-       "id":35
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2903/968/430/2/w/444/2903968430_2_2_1.jpg?ts=1646384231065",
-       "name": "MINI SKIRT WITH POCKETS",
-       "price": "₹ 2,990.00",
-       "id":36
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7563/045/707/2/w/204/7563045707_2_1_1.jpg?ts=1646384232706",
-       "name": "LINEN BLEND WRAP SKIRT",
-       "price": "₹ 4,990.00",
-       "id":37
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2960/421/511/2/w/204/2960421511_1_1_1.jpg?ts=1647604670562",
-       "name": "PRINTED MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":38
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2407/322/800/2/w/204/2407322800_2_9_1.jpg?ts=1643806489207",
-       "name": "FAUX LEATHER MINI SKIRT",
-       "price": "₹ 2,590.00",
-       "id":39
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3125/579/712/2/w/204/3125579712_2_4_1.jpg?ts=1649236536554",
-       "name": "LINEN-BLEND WRAP SKIRT WITH KNOT",
-       "price": "₹ 4,990.00",
-       "id":40
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3495/574/505/2/w/204/3495574505_2_1_1.jpg?ts=1649174158592",
-       "name": "LINEN BLEND PRINTED SKIRT",
-       "price": "₹ 2,990.00",
-       "id":41
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3453/574/505/2/w/204/3453574505_15_1_1.jpg?ts=1649174159871",
-       "name": "LINEN BLEND WRAP SKIRT",
-       "price": "₹ 4,990.00",
-       "id":42
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4886/047/615/12/w/204/4886047615_2_2_1.jpg?ts=1649175147338",
-       "name": "CONTRASTING PLEATED SKIRT",
-       "price": "₹ 5,990.00",
-       "id":43
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3146/228/330/2/w/204/3146228330_6_1_1.jpg?ts=1648138590346",
-       "name": "PRINTED SHORT SKIRT",
-       "price": "₹ 2,890.00",
-       "id":44
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3453/574/505/2/w/204/3453574505_6_1_1.jpg?ts=1649154413852",
-       "name": "LINEN BLEND WRAP SKIRT",
-       "price": "₹ 4,990.00",
-       "id":45
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/12/w/444/2731051250_1_1_1.jpg?ts=1648126716498",
-       "name": "LINEN BLEND PRINTED SKIRT",
-       "price": "₹ 2,990.00",
-       "id":46
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/071/403/2/w/204/2731071403_1_1_1.jpg?ts=1648564498952",
-       "name": "EMBROIDERED LINEN BLEND SKIRT",
-       "price": "₹ 3,990.00",
-       "id":47
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5598/046/400/2/w/204/5598046400_1_1_1.jpg?ts=1648567790597",
-       "name": "LONG PRINTED SKIRT",
-       "price": "₹ 4,990.00",
-       "id":48
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/056/330/2/w/204/2731056330_2_4_1.jpg?ts=1648738336273",
-       "name": "EMBROIDERED LINEN SKIRT",
-       "price": "₹ 5,990.00",
-       "id":49
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2183/057/400/2/w/204/2183057400_2_1_1.jpg?ts=1648564519048",
-       "name": "PRINTED SARONG SKIRT",
-       "price": "₹ 2,890.00",
-       "id":50
-   } 
+  "womansshoes": [
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3625/910/040/2/w/563/3625910040_1_1_1.jpg?ts=1649414620546",
+      "name": "TIED LEATHER FLAT SANDALS",
+      "price": 2590,
+      "id": 1
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3606/910/030/2/w/563/3606910030_6_1_1.jpg?ts=1646323428285",
+      "name": "FLAT STRAPPY SANDALS",
+      "price": 2590,
+      "id": 2
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2631/910/040/2/w/563/2631910040_2_1_1.jpg?ts=1649414612449",
+      "name": "BUCKLED LEATHER FLAT SANDALS",
+      "price": 5990,
+      "id": 3
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1355/810/040/12/w/563/1355810040_1_1_1.jpg?ts=1649764298463",
+      "name": "LEATHER BLOCK HEEL SANDALS",
+      "price": 4990,
+      "id": 4
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1215/910/078/2/w/563/1215910078_1_1_1.jpg?ts=1649411244397",
+      "name": "BRAIDED HIGH HEEL MULES",
+      "price": 4990,
+      "id": 5
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1802/910/098/2/w/563/1802910098_1_1_1.jpg?ts=1649411244839",
+      "name": "FLAT PLAITED MULES",
+      "price": 4590,
+      "id": 6
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1507/910/009/2/w/563/1507910009_1_1_1.jpg?ts=1649411243557",
+      "name": "WOVEN SLINGBACK BALLET FLATS",
+      "price": 4590,
+      "id": 7
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2532/910/040/12/w/563/2532910040_1_1_1.jpg?ts=1649420578050",
+      "name": "EMBELLISHED FLAT SLINGBACK SHOES",
+      "price": 5990,
+      "id": 8
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2348/910/098/2/w/563/2348910098_1_1_1.jpg?ts=1649082496147",
+      "name": "EMBELLISHED PLATFORM SANDALS",
+      "price": 5990,
+      "id": 9
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5347/910/001/2/w/563/5347910001_6_1_1.jpg?ts=1648812666145",
+      "name": "LEATHER TRAINERS",
+      "price": 4590,
+      "id": 10
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5301/810/001/2/w/563/5301810001_6_1_1.jpg?ts=1649781426547",
+      "name": "TRAINERS",
+      "price": 2590,
+      "id": 11
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5300/810/202/2/w/563/5300810202_6_1_1.jpg?ts=1649781549157",
+      "name": "TRAINERS",
+      "price": 2590,
+      "id": 12
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2804/910/040/2/w/563/2804910040_6_1_1.jpg?ts=1643044582794",
+      "name": "FLAT SANDALS",
+      "price": 4590,
+      "id": 13
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3607/710/087/2/w/563/3607710087_1_1_1.jpg?ts=1646240935877",
+      "name": "FLAT SANDALS WITH METAL CHAIN DETAIL",
+      "price": 2990,
+      "id": 14
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2230/910/060/2/w/563/2230910060_1_1_1.jpg?ts=1646745690240",
+      "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
+      "price": 5990,
+      "id": 15
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2228/910/009/2/w/563/2228910009_1_1_1.jpg?ts=1646745690007",
+      "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
+      "price": 5990,
+      "id": 16
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2228/910/060/3/w/563/2228910060_1_1_1.jpg?ts=1647001732675",
+      "name": "HEELED SLINGBACK SHOES WITH EMBELLISHED BOW",
+      "price": 5990,
+      "id": 17
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5108/910/202/2/w/563/5108910202_1_1_1.jpg?ts=1646309081470",
+      "name": "SOFT TRAINERS",
+      "price": "₹ 3,590.00",
+      "id": 18
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5112/910/001/2/w/563/5112910001_6_1_1.jpg?ts=1646219870046",
+      "name": "CHUNKY SOLE TRAINERS",
+      "price": 4590,
+      "id": 19
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3329/910/030/2/w/563/3329910030_6_1_1.jpg?ts=1643099135389",
+      "name": "VINYL SANDALS WITH METHACRYLATE HEELS",
+      "price": 2990,
+      "id": 20
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3329/910/098/2/w/563/3329910098_6_1_1.jpg?ts=1643044372807",
+      "name": "VINYL SANDALS WITH METHACRYLATE HEELS",
+      "price": 2990,
+      "id": 21
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/I/1/1/p/1327/810/050/2/w/563/1327810050_1_1_1.jpg?ts=1621425042166",
+      "name": "LEATHER HEELED SANDALS WITH JUTE INSOLE",
+      "price": 4990,
+      "id": 22
+    }
   ],
-  "womenst-shirt":[
-   {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":1
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/V/0/1/p/4424/159/800/2/w/444/4424159800_6_1_1.jpg?ts=1611826835336",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":2
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/250/2/w/444/4424959250_6_1_1.jpg?ts=1635870678626",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":3
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":4
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4424/959/400/2/w/204/4424959400_6_1_1.jpg?ts=1647509002867",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":5
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/600/2/w/204/4424959600_6_1_1.jpg?ts=1626770913505",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":52
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/628/2/w/204/2335159628_6_1_1.jpg?ts=1643814558901",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":6
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 590.00",
-       "id":7
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/320/250/2/w/444/1131320250_1_1_1.jpg?ts=1649242622882",
-       "name": "GIRLS’ PRINTED",
-       "price": "₹ 1,790.00",
-       "id":53
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/316/250/2/w/204/1131316250_1_1_1.jpg?ts=1649175495220",
-       "name": "PRINTED T-SHIRT",
-       "price": " ₹ 1,790.00",
-       "id":8
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/317/807/2/w/204/1131317807_2_1_1.jpg?ts=1649175481336",
-       "name": "FADED-EFFECT P",
-       "price": "₹ 1,790.00",
-       "id":9
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5644/070/250/2/w/204/5644070250_2_1_1.jpg?ts=1649342418103",
-       "name": "©DISNEY’S BAM",
-       "price": "₹ 1,790.00",
-       "id":10
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/031/250/3/w/204/5580031250_1_1_1.jpg?ts=1649343891993",
-       "name": "T-SHIRT WITH CUTWORK EMBROIDERY",
-       "price": "₹ 1,790.00",
-       "id":11
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/022/250/2/w/204/5580022250_2_2_1.jpg?ts=1649342425214",
-       "name": "JACQUARD COR",
-       "price": "₹ 1,790.00",
-       "id":12
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/031/250/2/w/204/5580031250_2_1_1.jpg?ts=1649171519386",
-       "name": "T-SHIRT WITH CUTWORK EMBROIDERY",
-       "price": "₹ 1,790.00",
-       "id":13
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/6050/153/506/2/w/204/6050153506_2_1_1.jpg?ts=1649344986351",
-       "name": "CROPPED T-SHIRT",
-       "price": "₹ 690.00",
-       "id":14
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2712/366/511/2/w/204/2712366511_1_1_1.jpg?ts=1649348027219",
-       "name": "CROCHET TOP",
-       "price": "₹ 1,990.00",
-       "id":15
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2712/374/712/2/w/204/2712374712_1_1_1.jpg?ts=1649348026153",
-       "name": "CROCHET SWEA",
-       "price": "₹ 2,890.00",
-       "id":16
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/250/2/w/563/3641308250_1_1_1.jpg?ts=1649345518270",
-       "name": "RUFFLED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":17
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/800/2/w/204/3641308800_1_1_1.jpg?ts=1649345518106",
-       "name": "RUFFLED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":18
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/620/2/w/563/3641308620_1_1_1.jpg?ts=1649345516399",
-       "name": "RUFFLED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":19
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/300/2/w/563/3641308300_1_1_1.jpg?ts=1649345516303",
-       "name": "RUFFLED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":20
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/250/2/w/563/3641308250_1_1_1.jpg?ts=1649345518270",
-       "name": "RUFFLED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":21
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/321/250/2/w/563/1131321250_1_1_1.jpg?ts=1649412966610",
-       "name": "GIRLS’ PRINTED T-SHIRT",
-       "price": "₹ 1,790.00",
-       "id":22
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/325/250/2/w/563/5039325250_1_1_1.jpg?ts=1649345518291",
-       "name": "PRINTED NY T-SHIRT",
-       "price": "₹ 1,790.00",
-       "id":23
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5644/313/060/2/w/563/5644313060_1_1_1.jpg?ts=1649345519857",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 1,590.00",
-       "id":24
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/371/700/2/w/563/5039371700_1_1_1.jpg?ts=1642089001914",
-       "name": "HALTER NECK BODYSUIT",
-       "price": "₹ 1,290.00",
-       "id":25
-   }, {
-       "image_url": "https://static.zara.net/photos///2021/V/0/1/p/5039/371/613/2/w/563/5039371613_1_1_1.jpg?ts=1610541945741",
-       "name": "HALTER NECK BODYSUIT",
-       "price": "₹ 1,290.00",
-       "id":26
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/372/700/2/w/563/5039372700_1_1_1.jpg?ts=1640105856787",
-       "name": "HALTER NECK BODYSUIT",
-       "price": "₹ 1,290.00",
-       "id":27
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/620/2/w/563/0962349620_1_1_1.jpg?ts=1646049201031",
-       "name": "BASIC T-SHIRT",
-       "price": "₹ 690.00",
-       "id":28
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/800/2/w/563/0962349800_1_1_1.jpg?ts=1646049200469",
-       "name": "BASIC T-SHIRT",
-       "price": "₹ 690.00",
-       "id":29
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/620/2/w/563/0962349620_1_1_1.jpg?ts=1646049201031",
-       "name": "BASIC T-SHIRT",
-       "price": "₹ 690.00",
-       "id":30
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/500/2/w/563/0962349500_6_1_1.jpg?ts=1645692310470",
-       "name": "BASIC T-SHIRT",
-       "price": "₹ 690.00",
-       "id":31
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/400/2/w/563/0264370400_1_1_1.jpg?ts=1649175487762",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":32
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/063/2/w/563/0264370063_1_1_1.jpg?ts=1649175479209",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":33
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/800/2/w/563/0962349800_1_1_1.jpg?ts=1646049200469",
-       "name": "BASIC T-SHIRT",
-       "price": "₹ 690.00",
-       "id":34
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/300/2/w/563/0264370300_1_1_1.jpg?ts=1646832093918",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":35
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/064/2/w/563/0264370064_1_1_1.jpg?ts=1646236398463",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":36
-   },
-
-   {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/620/2/w/563/0264370620_1_1_1.jpg?ts=1646236388423",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":37
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/500/2/w/563/0264370500_1_1_1.jpg?ts=1646236407686",
-       "name": "PRINTED T-SHIRT",
-       "price": "₹ 790.00",
-       "id":38
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/012/800/2/w/563/5580012800_1_1_1.jpg?ts=1646908545976",
-       "name": "ASYMMETRIC FRILLED BODYT",
-       "price": "₹ 1,790.00",
-       "id":39
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/157/611/2/w/563/2335157611_1_1_1.jpg?ts=1646908543362",
-       "name": "STRAPPY TOP WITH GATHERING",
-       "price": "₹ 990.00",
-       "id":40
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/800/17/w/563/3253302800_1_1_1.jpg?ts=1645639523434",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.00",
-       "id":41
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/800/2/w/563/3253302800_1_1_1.jpg?ts=1644506264900",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.00",
-       "id":42
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/250/2/w/563/3253302250_1_1_1.jpg?ts=1644506259879",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.00",
-       "id":43
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/630/2/w/563/3253302630_1_1_1.jpg?ts=1644601893906",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.0",
-       "id":44
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/710/2/w/563/3253302710_1_1_1.jpg?ts=1644506261558",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.00",
-       "id":45
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/406/2/w/563/3253302406_1_1_1.jpg?ts=1644587571384",
-       "name": "RIBBED T-SHIRT",
-       "price": "₹ 490.00",
-       "id":46
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/250/2/w/563/3253303250_1_1_1.jpg?ts=1644506263316",
-       "name": "RIBBED TOP",
-       "price": "₹ 590.00",
-       "id":47
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/800/2/w/563/3253303800_1_1_1.jpg?ts=1644576785568",
-       "name": "RIBBED TOP",
-       "price": "₹ 590.00",
-       "id":48
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/629/2/w/563/3253303629_1_1_1.jpg?ts=1644576772169",
-       "name": "RIBBED TOP",
-       "price": "₹ 590.00",
-       "id":49
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/710/2/w/563/3253303710_1_1_1.jpg?ts=1644506265961",
-       "name": "RIBBED TOP",
-       "price": "₹ 590.00",
-       "id":50
-   }, {
-       "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/800/2/w/563/3253303800_1_1_1.jpg?ts=1644576785568",
-       "name": "RIBBED TOP",
-       "price": "₹ 590.00",
-       "id":51
-   }
-
+  "womansskirts": [
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_1_1_1.jpg?ts=1648653833690",
+      "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+      "price": 2899,
+      "id": 1
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_6_1_1.jpg?ts=1647361021844",
+      "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+      "price": 2899,
+      "id": 2
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3267/913/300/2/w/444/3267913300_2_1_1.jpg?ts=1648125127818",
+      "name": "EMBROIDERED MINI SKIRT",
+      "price": 3990,
+      "id": 3
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3026/922/250/2/w/444/3026922250_2_1_1.jpg?ts=1648124019968",
+      "name": "SHORT FRILLED SKIRT",
+      "price": 4990,
+      "id": 4
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2551/636/800/2/w/444/2551636800_1_1_1.jpg?ts=1645029267256",
+      "name": "DRAPED MIDI SKIRT",
+      "price": 2990,
+      "id": 5
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/081/405/2/w/444/8197081405_2_2_1.jpg?ts=1647596637239",
+      "name": "DENIM SKIRT",
+      "price": 1999,
+      "id": 6
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/444/4387063450_1_1_1.jpg?ts=1647857914009",
+      "name": "LINEN CAPE SKIRT",
+      "price": 3990,
+      "id": 7
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/9878/105/942/2/w/444/9878105942_1_1_1.jpg?ts=1648203490724",
+      "name": "FRILLED MINI SKIRT",
+      "price": 2899,
+      "id": 8
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/525/500/2/w/444/3013525500_2_1_1.jpg?ts=1646221585099",
+      "name": "SKORT WITH SLIT DETAIL ",
+      "price": 2899,
+      "id": 9
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/542/251/2/w/444/3013542251_1_1_1.jpg?ts=1646067227375",
+      "name": "SKORT WITH SLIT DETAIL",
+      "price": 2899,
+      "id": 10
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7969/051/400/2/w/444/7969051400_1_1_1.jpg?ts=1649153597309",
+      "name": "SEQUINNED MIDI SKIRT",
+      "price": 4990,
+      "id": 11
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3391/685/712/2/w/444/3391685712_1_1_1.jpg?ts=1649232267241",
+      "name": "DRAPED SATIN SKIRT",
+      "price": 2590,
+      "id": 12
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3353/660/800/2/w/444/3353660800_2_3_1.jpg?ts=1649254187481",
+      "name": "STRETCHY LINEN BLEND SKIRT",
+      "price": 2590,
+      "id": 13
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8342/008/050/2/w/444/8342008050_1_1_1.jpg?ts=1649254187129",
+      "name": "FLORAL MINI SKIRT",
+      "price": 2590,
+      "id": 14
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7385/058/445/2/w/444/7385058445_6_1_1.jpg?ts=1648725679460",
+      "name": "POLKA DOT MINI SKIRT",
+      "price": 2590,
+      "id": 15
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/089/400/2/w/444/8197089400_2_2_1.jpg?ts=1645526196686",
+      "name": "DENIM MIDI SKIRT",
+      "price": 2590,
+      "id": 16
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3223/332/250/2/w/444/3223332250_1_1_1.jpg?ts=1647592904715",
+      "name": "DRAPED MINI SKIRT",
+      "price": 2590,
+      "id": 17
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3223/636/645/2/w/444/3223636645_2_1_1.jpg?ts=1647446114321",
+      "name": "DRAPED MINI SKIRT",
+      "price": 2590,
+      "id": 18
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/12/w/444/2731051250_1_1_1.jpg?ts=1648126716498",
+      "name": "EMBROIDERED LONG SKIRT",
+      "price": "₹ 6,990.00",
+      "id": 19
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/191/406/2/w/444/8197191406_2_1_1.jpg?ts=1647969866284",
+      "name": "DENIM MIDI SKIRT",
+      "price": 2590,
+      "id": 20
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2221/575/617/2/w/444/2221575617_1_1_1.jpg?ts=1646667522153",
+      "name": "HIGH-WAIST MINI SKIRT",
+      "price": 2899,
+      "id": 21
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2789/157/500/2/w/444/2789157500_2_3_1.jpg?ts=1646653404322",
+      "name": "PRINTED SHORT SKIRT",
+      "price": 2899,
+      "id": 22
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2789/157/500/12/w/444/2789157500_1_1_1.jpg?ts=1646653459459",
+      "name": "PRINTED SHORT SKIRT",
+      "price": 2899,
+      "id": 23
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8351/039/330/2/w/444/8351039330_2_10_1.jpg?ts=1645522459443",
+      "name": "TEXTURED SKIRT WITH FAUX PEARL BEAD BUTTON DETAIL",
+      "price": 2590,
+      "id": 24
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3564/079/251/2/w/444/3564079251_2_10_1.jpg?ts=1645521927213",
+      "name": "SHINY BUCKLED MINI SKIRT",
+      "price": 2990,
+      "id": 25
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/2/w/444/2731051250_1_1_1.jpg?ts=1646757797945",
+      "name": "EMBROIDERED LONG SKIRT",
+      "price": "₹ 6,990.00",
+      "id": 26
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4786/054/064/2/w/444/4786054064_1_1_1.jpg?ts=1646757801802",
+      "name": "EMBROIDERED MIDI SKIRT",
+      "price": 5990,
+      "id": 27
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2221/575/617/3/w/444/2221575617_1_1_1.jpg?ts=1646845619173",
+      "name": "HIGH-WAIST MINI SKIRT",
+      "price": 2899,
+      "id": 28
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3008/042/710/2/w/444/3008042710_15_1_1.jpg?ts=1645012947566",
+      "name": "EMBROIDERED MIDI SKIRT",
+      "price": 4990,
+      "id": 29
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4886/049/712/2/w/444/4886049712_1_1_1.jpg?ts=1648126605473",
+      "name": "PLEATED SKIRT WITH EMBROIDERY",
+      "price": "₹ 7,990.00",
+      "id": 30
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2397/142/713/2/w/444/2397142713_1_1_1.jpg?ts=1645012958645",
+      "name": "EMBROIDERED LONG SKIRT",
+      "price": 5990,
+      "id": 31
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3666/064/093/2/w/444/3666064093_2_2_1.jpg?ts=1646743002371",
+      "name": "PRINTED SATIN SKIRT",
+      "price": 2899,
+      "id": 32
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/047/506/2/w/444/4387047506_2_1_1.jpg?ts=1646743011944",
+      "name": "SATIN WRAP SKIRT",
+      "price": 2899,
+      "id": 33
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3564/078/800/2/w/444/3564078800_2_1_1.jpg?ts=1645519660221",
+      "name": "DRAPED MIDI SKIRT",
+      "price": 2899,
+      "id": 34
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/070/500/2/w/444/2731070500_2_4_1.jpg?ts=1646384242202",
+      "name": "EMBROIDERED LINEN BLEND CAPE SKIRT",
+      "price": 4990,
+      "id": 35
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2903/968/430/2/w/444/2903968430_2_2_1.jpg?ts=1646384231065",
+      "name": "MINI SKIRT WITH POCKETS",
+      "price": 2990,
+      "id": 36
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7563/045/707/2/w/204/7563045707_2_1_1.jpg?ts=1646384232706",
+      "name": "LINEN BLEND WRAP SKIRT",
+      "price": 4990,
+      "id": 37
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2960/421/511/2/w/204/2960421511_1_1_1.jpg?ts=1647604670562",
+      "name": "PRINTED MINI SKIRT",
+      "price": 2590,
+      "id": 38
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2407/322/800/2/w/204/2407322800_2_9_1.jpg?ts=1643806489207",
+      "name": "FAUX LEATHER MINI SKIRT",
+      "price": 2590,
+      "id": 39
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3125/579/712/2/w/204/3125579712_2_4_1.jpg?ts=1649236536554",
+      "name": "LINEN-BLEND WRAP SKIRT WITH KNOT",
+      "price": 4990,
+      "id": 40
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3495/574/505/2/w/204/3495574505_2_1_1.jpg?ts=1649174158592",
+      "name": "LINEN BLEND PRINTED SKIRT",
+      "price": 2990,
+      "id": 41
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3453/574/505/2/w/204/3453574505_15_1_1.jpg?ts=1649174159871",
+      "name": "LINEN BLEND WRAP SKIRT",
+      "price": 4990,
+      "id": 42
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4886/047/615/12/w/204/4886047615_2_2_1.jpg?ts=1649175147338",
+      "name": "CONTRASTING PLEATED SKIRT",
+      "price": 5990,
+      "id": 43
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3146/228/330/2/w/204/3146228330_6_1_1.jpg?ts=1648138590346",
+      "name": "PRINTED SHORT SKIRT",
+      "price": 2899,
+      "id": 44
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3453/574/505/2/w/204/3453574505_6_1_1.jpg?ts=1649154413852",
+      "name": "LINEN BLEND WRAP SKIRT",
+      "price": 4990,
+      "id": 45
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/051/250/12/w/444/2731051250_1_1_1.jpg?ts=1648126716498",
+      "name": "LINEN BLEND PRINTED SKIRT",
+      "price": 2990,
+      "id": 46
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/071/403/2/w/204/2731071403_1_1_1.jpg?ts=1648564498952",
+      "name": "EMBROIDERED LINEN BLEND SKIRT",
+      "price": 3990,
+      "id": 47
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5598/046/400/2/w/204/5598046400_1_1_1.jpg?ts=1648567790597",
+      "name": "LONG PRINTED SKIRT",
+      "price": 4990,
+      "id": 48
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2731/056/330/2/w/204/2731056330_2_4_1.jpg?ts=1648738336273",
+      "name": "EMBROIDERED LINEN SKIRT",
+      "price": 5990,
+      "id": 49
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2183/057/400/2/w/204/2183057400_2_1_1.jpg?ts=1648564519048",
+      "name": "PRINTED SARONG SKIRT",
+      "price": 2899,
+      "id": 50
+    }
   ],
-  "NEW":[
+  "womenst-shirt": [
     {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":1,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    }, {
-        "image_url": "https://static.zara.net/photos///2021/V/0/1/p/4424/159/800/2/w/444/4424159800_6_1_1.jpg?ts=1611826835336",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":2,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/250/2/w/444/4424959250_6_1_1.jpg?ts=1635870678626",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":3,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":4,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4424/959/400/2/w/204/4424959400_6_1_1.jpg?ts=1647509002867",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":5,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/600/2/w/204/4424959600_6_1_1.jpg?ts=1626770913505",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":6,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/628/2/w/204/2335159628_6_1_1.jpg?ts=1643814558901",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":7,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
-        "name": "CROPPED T-SHIRT",
-        "price": "₹ 590.00",
-        "id":8,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3625/910/040/2/w/563/3625910040_1_1_1.jpg?ts=1649414620546",
-        "name": "TIED LEATHER FLAT SANDALS",
-        "price": "₹ 2,590.00",
-        "id":9,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/3606/910/030/2/w/563/3606910030_6_1_1.jpg?ts=1646323428285",
-        "name": "FLAT STRAPPY SANDALS",
-        "price": "₹ 2,590.00",
-        "id":10,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2631/910/040/2/w/563/2631910040_2_1_1.jpg?ts=1649414612449",
-        "name": "BUCKLED LEATHER FLAT SANDALS",
-        "price": "₹ 5,990.00",
-        "id":11,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    },
- 
- 
-    {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1355/810/040/12/w/563/1355810040_1_1_1.jpg?ts=1649764298463",
-        "name": "LEATHER BLOCK HEEL SANDALS",
-        "price": "₹ 4,990.00",
-        "id":12,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1215/910/078/2/w/563/1215910078_1_1_1.jpg?ts=1649411244397",
-        "name": "BRAIDED HIGH HEEL MULES",
-        "price": "₹ 4,990.00",
-        "id":13,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    },
- 
-    {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1802/910/098/2/w/563/1802910098_1_1_1.jpg?ts=1649411244839",
-        "name": "FLAT PLAITED MULES",
-        "price": "₹ 4,590.00",
-        "id":14,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/1507/910/009/2/w/563/1507910009_1_1_1.jpg?ts=1649411243557",
-        "name": "WOVEN SLINGBACK BALLET FLATS",
-        "price": "₹ 4,590.00",
-        "id":15,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2532/910/040/12/w/563/2532910040_1_1_1.jpg?ts=1649420578050",
-        "name": "EMBELLISHED FLAT SLINGBACK SHOES",
-        "price": "₹ 5,990.00",
-        "id":16,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/2348/910/098/2/w/563/2348910098_1_1_1.jpg?ts=1649082496147",
-        "name": "EMBELLISHED PLATFORM SANDALS",
-        "price": "₹ 5,990.00",
-        "id":17,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/1/1/p/5347/910/001/2/w/563/5347910001_6_1_1.jpg?ts=1648812666145",
-        "name": "LEATHER TRAINERS",
-        "price": "₹ 4,590.00",
-        "id":18,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 1
     },
     {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_1_1_1.jpg?ts=1648653833690",
-        "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
-        "price": "₹ 2,890.00",
-        "id":19,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_6_1_1.jpg?ts=1647361021844",
-        "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
-        "price": "₹ 2,890.00",
-        "id":20,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3267/913/300/2/w/444/3267913300_2_1_1.jpg?ts=1648125127818",
-        "name": "EMBROIDERED MINI SKIRT",
-        "price": "₹ 3,990.00",
-         "id":21,
-         "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-     
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3026/922/250/2/w/444/3026922250_2_1_1.jpg?ts=1648124019968",
-        "name": "SHORT FRILLED SKIRT",
-        "price": "₹ 4,990.00",
-        "id":22,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2551/636/800/2/w/444/2551636800_1_1_1.jpg?ts=1645029267256",
-        "name": "DRAPED MIDI SKIRT",
-        "price": "₹ 2,990.00",
-        "id":23,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/8197/081/405/2/w/444/8197081405_2_2_1.jpg?ts=1647596637239",
-        "name": "DENIM SKIRT",
-        "price": "₹ 1,990.00",
-        "id":24,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/444/4387063450_1_1_1.jpg?ts=1647857914009",
-        "name": "LINEN CAPE SKIRT",
-        "price": "₹ 3,990.00",
-        "id":25,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/9878/105/942/2/w/444/9878105942_1_1_1.jpg?ts=1648203490724",
-        "name": "FRILLED MINI SKIRT",
-        "price": "₹ 2,890.00",
-        "id":26,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/525/500/2/w/444/3013525500_2_1_1.jpg?ts=1646221585099",
-        "name": "SKORT WITH SLIT DETAIL ",
-        "price": "₹ 2,890.00",
-        "id":27,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3013/542/251/2/w/444/3013542251_1_1_1.jpg?ts=1646067227375",
-        "name": "SKORT WITH SLIT DETAIL",
-        "price": "₹ 2,890.00",
-        "id":28,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/7969/051/400/2/w/444/7969051400_1_1_1.jpg?ts=1649153597309",
-        "name": "SEQUINNED MIDI SKIRT",
-        "price": "₹ 4,990.00",
-        "id":29,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
-    }, {
-        "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3391/685/712/2/w/444/3391685712_1_1_1.jpg?ts=1649232267241",
-        "name": "DRAPED SATIN SKIRT",
-        "price": "₹ 2,590.00",
-        "id":30,
-        "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
-    
+      "image_url": "https://static.zara.net/photos///2021/V/0/1/p/4424/159/800/2/w/444/4424159800_6_1_1.jpg?ts=1611826835336",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 2
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/250/2/w/444/4424959250_6_1_1.jpg?ts=1635870678626",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 3
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 4
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/4424/959/400/2/w/204/4424959400_6_1_1.jpg?ts=1647509002867",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 5
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/959/600/2/w/204/4424959600_6_1_1.jpg?ts=1626770913505",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 52
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/628/2/w/204/2335159628_6_1_1.jpg?ts=1643814558901",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 6
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 7
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/320/250/2/w/444/1131320250_1_1_1.jpg?ts=1649242622882",
+      "name": "GIRLS’ PRINTED",
+      "price": 1799,
+      "id": 53
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/316/250/2/w/204/1131316250_1_1_1.jpg?ts=1649175495220",
+      "name": "PRINTED T-SHIRT",
+      "price": 1799,
+      "id": 8
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/317/807/2/w/204/1131317807_2_1_1.jpg?ts=1649175481336",
+      "name": "FADED-EFFECT P",
+      "price": 1799,
+      "id": 9
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5644/070/250/2/w/204/5644070250_2_1_1.jpg?ts=1649342418103",
+      "name": "©DISNEY’S BAM",
+      "price": 1799,
+      "id": 10
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/031/250/3/w/204/5580031250_1_1_1.jpg?ts=1649343891993",
+      "name": "T-SHIRT WITH CUTWORK EMBROIDERY",
+      "price": 1799,
+      "id": 11
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/022/250/2/w/204/5580022250_2_2_1.jpg?ts=1649342425214",
+      "name": "JACQUARD COR",
+      "price": 1799,
+      "id": 12
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/031/250/2/w/204/5580031250_2_1_1.jpg?ts=1649171519386",
+      "name": "T-SHIRT WITH CUTWORK EMBROIDERY",
+      "price": 1799,
+      "id": 13
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/6050/153/506/2/w/204/6050153506_2_1_1.jpg?ts=1649344986351",
+      "name": "CROPPED T-SHIRT",
+      "price": 699,
+      "id": 14
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2712/366/511/2/w/204/2712366511_1_1_1.jpg?ts=1649348027219",
+      "name": "CROCHET TOP",
+      "price": 1999,
+      "id": 15
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2712/374/712/2/w/204/2712374712_1_1_1.jpg?ts=1649348026153",
+      "name": "CROCHET SWEA",
+      "price": 2899,
+      "id": 16
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/250/2/w/563/3641308250_1_1_1.jpg?ts=1649345518270",
+      "name": "RUFFLED T-SHIRT",
+      "price": 790,
+      "id": 17
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/800/2/w/204/3641308800_1_1_1.jpg?ts=1649345518106",
+      "name": "RUFFLED T-SHIRT",
+      "price": 790,
+      "id": 18
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/620/2/w/563/3641308620_1_1_1.jpg?ts=1649345516399",
+      "name": "RUFFLED T-SHIRT",
+      "price": 790,
+      "id": 19
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/300/2/w/563/3641308300_1_1_1.jpg?ts=1649345516303",
+      "name": "RUFFLED T-SHIRT",
+      "price": 790,
+      "id": 20
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3641/308/250/2/w/563/3641308250_1_1_1.jpg?ts=1649345518270",
+      "name": "RUFFLED T-SHIRT",
+      "price": 790,
+      "id": 21
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/1131/321/250/2/w/563/1131321250_1_1_1.jpg?ts=1649412966610",
+      "name": "GIRLS’ PRINTED T-SHIRT",
+      "price": 1799,
+      "id": 22
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/325/250/2/w/563/5039325250_1_1_1.jpg?ts=1649345518291",
+      "name": "PRINTED NY T-SHIRT",
+      "price": 1799,
+      "id": 23
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5644/313/060/2/w/563/5644313060_1_1_1.jpg?ts=1649345519857",
+      "name": "PRINTED T-SHIRT",
+      "price": 1590,
+      "id": 24
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/371/700/2/w/563/5039371700_1_1_1.jpg?ts=1642089001914",
+      "name": "HALTER NECK BODYSUIT",
+      "price": 1290,
+      "id": 25
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/V/0/1/p/5039/371/613/2/w/563/5039371613_1_1_1.jpg?ts=1610541945741",
+      "name": "HALTER NECK BODYSUIT",
+      "price": 1290,
+      "id": 26
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5039/372/700/2/w/563/5039372700_1_1_1.jpg?ts=1640105856787",
+      "name": "HALTER NECK BODYSUIT",
+      "price": 1290,
+      "id": 27
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/620/2/w/563/0962349620_1_1_1.jpg?ts=1646049201031",
+      "name": "BASIC T-SHIRT",
+      "price": 699,
+      "id": 28
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/800/2/w/563/0962349800_1_1_1.jpg?ts=1646049200469",
+      "name": "BASIC T-SHIRT",
+      "price": 699,
+      "id": 29
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/620/2/w/563/0962349620_1_1_1.jpg?ts=1646049201031",
+      "name": "BASIC T-SHIRT",
+      "price": 699,
+      "id": 30
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/500/2/w/563/0962349500_6_1_1.jpg?ts=1645692310470",
+      "name": "BASIC T-SHIRT",
+      "price": 699,
+      "id": 31
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/400/2/w/563/0264370400_1_1_1.jpg?ts=1649175487762",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 32
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/063/2/w/563/0264370063_1_1_1.jpg?ts=1649175479209",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 33
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0962/349/800/2/w/563/0962349800_1_1_1.jpg?ts=1646049200469",
+      "name": "BASIC T-SHIRT",
+      "price": 699,
+      "id": 34
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/300/2/w/563/0264370300_1_1_1.jpg?ts=1646832093918",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 35
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/064/2/w/563/0264370064_1_1_1.jpg?ts=1646236398463",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 36
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/620/2/w/563/0264370620_1_1_1.jpg?ts=1646236388423",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 37
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/0264/370/500/2/w/563/0264370500_1_1_1.jpg?ts=1646236407686",
+      "name": "PRINTED T-SHIRT",
+      "price": 790,
+      "id": 38
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/5580/012/800/2/w/563/5580012800_1_1_1.jpg?ts=1646908545976",
+      "name": "ASYMMETRIC FRILLED BODYT",
+      "price": 1799,
+      "id": 39
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/157/611/2/w/563/2335157611_1_1_1.jpg?ts=1646908543362",
+      "name": "STRAPPY TOP WITH GATHERING",
+      "price": 990,
+      "id": 40
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/800/17/w/563/3253302800_1_1_1.jpg?ts=1645639523434",
+      "name": "RIBBED T-SHIRT",
+      "price": 490,
+      "id": 41
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/800/2/w/563/3253302800_1_1_1.jpg?ts=1644506264900",
+      "name": "RIBBED T-SHIRT",
+      "price": 490,
+      "id": 42
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/250/2/w/563/3253302250_1_1_1.jpg?ts=1644506259879",
+      "name": "RIBBED T-SHIRT",
+      "price": 490,
+      "id": 43
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/630/2/w/563/3253302630_1_1_1.jpg?ts=1644601893906",
+      "name": "RIBBED T-SHIRT",
+      "price": "₹ 490.0",
+      "id": 44
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/710/2/w/563/3253302710_1_1_1.jpg?ts=1644506261558",
+      "name": "RIBBED T-SHIRT",
+      "price": 490,
+      "id": 45
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/302/406/2/w/563/3253302406_1_1_1.jpg?ts=1644587571384",
+      "name": "RIBBED T-SHIRT",
+      "price": 490,
+      "id": 46
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/250/2/w/563/3253303250_1_1_1.jpg?ts=1644506263316",
+      "name": "RIBBED TOP",
+      "price": 590,
+      "id": 47
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/800/2/w/563/3253303800_1_1_1.jpg?ts=1644576785568",
+      "name": "RIBBED TOP",
+      "price": 590,
+      "id": 48
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/629/2/w/563/3253303629_1_1_1.jpg?ts=1644576772169",
+      "name": "RIBBED TOP",
+      "price": 590,
+      "id": 49
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/710/2/w/563/3253303710_1_1_1.jpg?ts=1644506265961",
+      "name": "RIBBED TOP",
+      "price": 590,
+      "id": 50
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/800/2/w/563/3253303800_1_1_1.jpg?ts=1644576785568",
+      "name": "RIBBED TOP",
+      "price": 590,
+      "id": 51
+    }
+  ],
+  "NEW": [
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 1,
+      "quantity": 1,
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2021/V/0/1/p/4424/159/800/2/w/444/4424159800_6_1_1.jpg?ts=1611826835336",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 2,
+      "quantity": 1,
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2021/I/0/1/p/4424/959/250/2/w/444/4424959250_6_1_1.jpg?ts=1635870678626",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 3,
+      "quantity": 1,
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 4,
+      "quantity": 1,
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/4424/959/400/2/w/204/4424959400_6_1_1.jpg?ts=1647509002867",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 5,
+      "quantity": 1,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2021/I/0/1/p/4424/959/600/2/w/204/4424959600_6_1_1.jpg?ts=1626770913505",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 6,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/628/2/w/204/2335159628_6_1_1.jpg?ts=1643814558901",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 7,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "id": 8,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/3625/910/040/2/w/563/3625910040_1_1_1.jpg?ts=1649414620546",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "TIED LEATHER FLAT SANDALS",
+      "price": 2590,
+      "id": 9,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/3606/910/030/2/w/563/3606910030_6_1_1.jpg?ts=1646323428285",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "FLAT STRAPPY SANDALS",
+      "price": 2590,
+      "id": 10,
+      "side_description": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.",
+      "side_title": "MATERIALS, CARE AND ORIGIN",
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/2631/910/040/2/w/563/2631910040_2_1_1.jpg?ts=1649414612449",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "BUCKLED LEATHER FLAT SANDALS",
+      "price": 5990,
+      "id": 11,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/1355/810/040/12/w/563/1355810040_1_1_1.jpg?ts=1649764298463",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "LEATHER BLOCK HEEL SANDALS",
+      "price": 4990,
+      "id": 12,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/1215/910/078/2/w/563/1215910078_1_1_1.jpg?ts=1649411244397",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "BRAIDED HIGH HEEL MULES",
+      "price": 4990,
+      "id": 13,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/1802/910/098/2/w/563/1802910098_1_1_1.jpg?ts=1649411244839",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "FLAT PLAITED MULES",
+      "price": 4590,
+      "id": 14,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/1507/910/009/2/w/563/1507910009_1_1_1.jpg?ts=1649411243557",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "WOVEN SLINGBACK BALLET FLATS",
+      "price": 4590,
+      "id": 15,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/2532/910/040/12/w/563/2532910040_1_1_1.jpg?ts=1649420578050",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "EMBELLISHED FLAT SLINGBACK SHOES",
+      "price": 5990,
+      "id": 16,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/2348/910/098/2/w/563/2348910098_1_1_1.jpg?ts=1649082496147",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "EMBELLISHED PLATFORM SANDALS",
+      "price": 5990,
+      "id": 17,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/1/1/p/5347/910/001/2/w/563/5347910001_6_1_1.jpg?ts=1648812666145",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "LEATHER TRAINERS",
+      "price": 4590,
+      "id": 18,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_1_1_1.jpg?ts=1648653833690",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+      "price": 2899,
+      "id": 19,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3218/924/052/2/w/444/3218924052_6_1_1.jpg?ts=1647361021844",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "MIDI SKIRT WITH SIDE DRAPED DETAIL",
+      "price": 2899,
+      "id": 20,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3267/913/300/2/w/444/3267913300_2_1_1.jpg?ts=1648125127818",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "EMBROIDERED MINI SKIRT",
+      "price": 3990,
+      "id": 21,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3026/922/250/2/w/444/3026922250_2_1_1.jpg?ts=1648124019968",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "SHORT FRILLED SKIRT",
+      "price": 4990,
+      "id": 22,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/2551/636/800/2/w/444/2551636800_1_1_1.jpg?ts=1645029267256",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "DRAPED MIDI SKIRT",
+      "price": 2990,
+      "id": 23,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/8197/081/405/2/w/444/8197081405_2_2_1.jpg?ts=1647596637239",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "DENIM SKIRT",
+      "price": 1999,
+      "id": 24,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/4387/063/450/2/w/444/4387063450_1_1_1.jpg?ts=1647857914009",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "LINEN CAPE SKIRT",
+      "price": 3990,
+      "id": 25,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/9878/105/942/2/w/444/9878105942_1_1_1.jpg?ts=1648203490724",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "FRILLED MINI SKIRT",
+      "price": 2899,
+      "id": 26,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3013/525/500/2/w/444/3013525500_2_1_1.jpg?ts=1646221585099",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "SKORT WITH SLIT DETAIL ",
+      "price": 2899,
+      "id": 27,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3013/542/251/2/w/444/3013542251_1_1_1.jpg?ts=1646067227375",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "SKORT WITH SLIT DETAIL",
+      "price": 2899,
+      "id": 28,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/7969/051/400/2/w/444/7969051400_1_1_1.jpg?ts=1649153597309",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "SEQUINNED MIDI SKIRT",
+      "price": 4990,
+      "id": 29,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    },
+    {
+      "image_url": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3391/685/712/2/w/444/3391685712_1_1_1.jpg?ts=1649232267241",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+        "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634"
+      ],
+      "name": "DRAPED SATIN SKIRT",
+      "price": 2590,
+      "id": 30,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front."
+    }
+  ],
+  "CART": [
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/539/2/w/204/2335159539_6_1_1.jpg?ts=1643814566919",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front.",
+      "id": 8,
+      "quantity": null
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2022/V/0/1/p/2335/159/941/2/w/444/2335159941_2_2_1.jpg?ts=1649342414634",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front.",
+      "id": 1
+    },
+    {
+      "image_url": "https://static.zara.net/photos///2021/I/0/1/p/4424/159/710/2/w/204/4424159710_6_1_1.jpg?ts=1623747453873",
+      "name": "CROPPED T-SHIRT",
+      "price": 590,
+      "description": "Long dress made of viscose. Lapel collar and long sleeves with elastic cuffs. Tied belt in matching fabric. Side in-seam pockets. Button-up front.",
+      "id": 4
     }
   ]
 }

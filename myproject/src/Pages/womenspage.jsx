@@ -16,8 +16,10 @@ import womensstyle from "../css/womenspage.module.css"
     dispatch(WOMENS_PAGE)
     console.log(`mounting womens page`)
     const unmountwomenspage=()=>{
-      return dispatch(UNMOUNT_WOMENS_PAGE),  // taki womens page unmount ho jaye
+      return (
+        dispatch(UNMOUNT_WOMENS_PAGE),  // taki womens page unmount ho jaye
       console.log(`unmount women page`)
+       )
     }
     return unmountwomenspage
     },[])

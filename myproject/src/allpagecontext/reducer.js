@@ -5,7 +5,8 @@ function reducer(state,action){
     case "womens_page":
          return {
            ...state,
-           isWomenspage:true
+           isWomenspage:true,
+           isNothomepage:false,
        }
        case "mens_page":
         return {
@@ -20,7 +21,8 @@ function reducer(state,action){
             case "unmount_womens_page":
                 return {
                     ...state,
-                    isWomenspage:false
+                    isWomenspage:false,
+                    isNothomepage:true
                 }
                 case "unmount_mens_page":
                     return {
@@ -48,6 +50,40 @@ function reducer(state,action){
                                         isWomensdetailspagedataerror:true,
                                         isWomensdetailspagedatalodaing:false
                                     }
+                                    case "single_product_page_request":
+                                        return {
+                                            ...state,
+                                            isSingleproductpageloading:true
+                                        }
+                                        case "single_product_page_success":
+                                            return {
+                                                ...state,
+                                                isSingleproductpageloading:false
+                                            }
+                                      case "single_product_page_failure":
+                                                return {
+                                                    ...state,
+                                                    isSingleproductpageloading:false,
+                                                    isSingleproductpageerror:true
+                                                }
+                             case "cart_data_request":
+                                return {
+                                    ...state,
+                                    isCartdataloading:true
+                                }  
+                                case "cart_data_success":
+                                    return {
+                                        ...state,
+                                        isCartdataloading:false,
+                                        isCartdataerror:false
+                                    }   
+                               case "cart_data_failure":
+                                return {
+                                    ...state,
+                                    isCartdataloading:false,
+                                    isCartdataerror:true
+                                }                   
+                                      
    }
 }
 export default reducer

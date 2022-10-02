@@ -41,6 +41,7 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
         })
     }
     console.log(`dtatatatat`,data)
+    
      if(state.isWomensdetailspagedatalodaing){
         return <Spinner  thickness='8px'
         speed='0.65s'
@@ -59,8 +60,8 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
             {data ?.map((el)=>{
                 return <GridItem className={womensdetailsstyles.grid_box}
                 p='4' rounded='md' bg='white' key={el.id}>
-                    <Image onClick={()=> navigate("/singleproduct")}
-                     cursor={"pointer"} src={el.image_url}
+                    <Image onClick={()=> navigate(`/singleproduct/${el.id}`)}
+                     cursor={"pointer"} src={el.image_url[0]}
                      alt={el.name} />
                    <Flex>
                     <Box>{el.name}</Box>
