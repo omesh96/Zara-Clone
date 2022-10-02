@@ -2,10 +2,12 @@
  import {Routes,Route} from "react-router-dom"
 import Cart from "../cart/cart"
 import Login from "../components/Loginpage"
+import Signup from "../components/signup"
 import WomensDetails from "../insidewomenspage/womensdetails"
 import KidsPage from "../Pages/Kidspage"
 import Menspage from "../Pages/Menspage"
 import Womenspage from "../Pages/womenspage"
+import PrivateRoute from "../privateroute/privateroute"
 import Singleproductpage from "../singleproductpage/singleproductpage"
  function AllRoutes(){
     return (
@@ -17,7 +19,8 @@ import Singleproductpage from "../singleproductpage/singleproductpage"
             <Route path="/kids" element={<KidsPage />}></Route>
           <Route path="/womensdetails/:el" element={<WomensDetails />}></Route>
             <Route path="/singleproduct/:id" element={<Singleproductpage />}></Route>
-            <Route path="/cart" element={<Cart />}></Route>
+            <Route path="/cart" element={<PrivateRoute><Cart /></PrivateRoute>}></Route>
+            <Route path="/signup" element={<Signup />}></Route>
 
          </Routes>
          </>

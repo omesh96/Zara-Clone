@@ -26,7 +26,8 @@ import { AuthContext } from "../allpagecontext/Allpagecontext"
     name:data.name,
     price:data.price,
     description:data.description,
-    id:data.id
+    id:data.id,
+    quantity:data.quantity
   })
  )
  }
@@ -44,10 +45,30 @@ import { AuthContext } from "../allpagecontext/Allpagecontext"
    
  }
 
- export const getqtydata=(id)=>{
-    return axios.get(`http://localhost:3008/CART/${id}`)
+ export const getqtydata=()=>{
+    return axios.get(`http://localhost:3008/CART`)
  }
  
+ 
+ export const getchangetotalprice=(id)=>{
+    return axios.get(`http://localhost:3008/CART/${id}`)
+ }
+
  export const removefromcart=(id)=>{
     return axios.delete(`http://localhost:3008/CART/${id}`)
+ }
+
+ // add userdata sign up
+
+ export const adduserdata=(data)=>{
+    return axios.post(`http://localhost:3008/userdata`,{
+        name:data.name,
+        email:data.email,
+        password:data.password,
+        address:data.address
+    })
+ }
+
+ export const getuserdata=()=>{
+    return axios.get(`http://localhost:3008/userdata`)
  }
