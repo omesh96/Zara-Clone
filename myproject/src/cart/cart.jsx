@@ -1,9 +1,10 @@
-import { Box, Button, Container, Flex, Grid, GridItem, Heading, IconButton, Image, Spacer, Spinner, Text } from "@chakra-ui/react"
-import { useContext, useState } from "react"
+import { Alert, AlertDescription, AlertDialog, AlertDialogBody, AlertDialogCloseButton, AlertDialogContent, AlertDialogFooter, AlertDialogHeader, AlertDialogOverlay, AlertIcon, AlertTitle, Box, Button, Container, Flex, Grid, GridItem, Heading, IconButton, Image, Spacer, Spinner, Text, useDisclosure } from "@chakra-ui/react"
+import { useContext, useRef, useState } from "react"
 import { useEffect } from "react"
 import { AuthContext } from "../allpagecontext/Allpagecontext"
-import { GetCartdata, getqtydata, Putqty, removefromcart } from "./addtocartapi"
+import { GetCartdata, getchangetotalprice, getqtydata, Putqty, removefromcart } from "./addtocartapi"
 import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
+import Totalpricecomponent from "../totalprice"
  
  function Cart(){
  const {state,dispatch,CART_DATA_REQUEST,CART_DATA_SUCCESS,CART_DATA_FAILURE} =useContext(AuthContext)
@@ -11,6 +12,9 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
  const [qty,setqty]=useState(1) 
  const [totalprice,settotalprice]=useState(0)
  const [qtyloading,setqtyloading]=useState(false)
+ const { isOpen, onOpen, onClose } = useDisclosure()
+ const cancelRef = useRef()
+ const [ispayment,setispayment]=useState(false)
 
  useEffect(()=>{
         handlegetcartdata()
@@ -26,6 +30,7 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
                 dispatch(CART_DATA_SUCCESS),
                 setmycart(res.data),
                 setqtyloading(false)
+               
             )
         })
         .catch((err)=>{
@@ -42,7 +47,36 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
             )
         })
     }
-      
+     
+    useEffect(()=>{
+        handletotalprice()
+    },[])
+
+    const handletotalprice=()=>{
+     console.log(`my cart length`,mycart.length)
+     return   getqtydata()
+      .then((res)=>{
+        return res.data.map((el)=>{
+            settotalprice(prev=>prev+(el.price*el.quantity))
+        })
+      })
+     }
+       const handletotalpricedec=(id)=>{
+        return   getchangetotalprice(id)
+        .then((res)=>{
+            return settotalprice(prev=>prev-res.data.price)
+        })
+       }
+
+       const handletotalpriceinc=(id)=>{
+        return   getchangetotalprice(id)
+        .then((res)=>{
+          return settotalprice(prev=>prev+res.data.price)
+        })
+       }
+
+
+      console.log(`total price`,totalprice)
     const handleqtydec=(qty,id)=>{
         console.log(`qty`,qty)
         if(qty<=1){
@@ -51,30 +85,38 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
         else{
             setqtyloading(true)
        Putqty(Number(qty-1),id)
-     setTimeout(()=>{
-        return  getqtydata(id)
-        .then((res)=>{
-          return setqty(qty+1)
-        })
-     },1000)
+       .then((res)=>{
+        return (
+            console.log(`dhgfshgfd`,res),
+            setqty(prev=>prev+1),
+            handletotalpricedec(id)
+        )
+       })
       
         }
     }
      const handleqtyinc=(qty,id)=>{
         console.log(`qty`,qty)
+        handletotalpriceinc(id)
         setqtyloading(true)
        Putqty(Number(qty+1),id)
-     setTimeout(()=>{
-        return  getqtydata(id)
         .then((res)=>{
-          return setqty(qty+1)
+            return (
+                setqty(prev=>prev+1)
+               
+            )
         })
-     },1000)
      }
 
      const deletecart=(id)=>{
+        handletotalpricedec(id)
         removefromcart(id)
-        handlegetcartdata()
+        .then((res)=>{
+            return (
+                setqty(prev=>prev+1),
+                handletotalpricedec(id)
+            )
+        })
      }
 
     console.log(`my cart`,mycart)
@@ -87,6 +129,28 @@ import womensdetailsstyles from "../insidewomenspage/womensdetails.module.css"
         size='xl' 
         style={{position:"relative",top:"300px" }} />
      }
+
+      if(ispayment){
+          return <Alert style={{position:"relative",top:"300px" }}
+          status='success'
+          variant='subtle'
+          flexDirection='column'
+          alignItems='center'
+          justifyContent='center'
+          textAlign='center'
+          height='200px'
+        >
+          <AlertIcon boxSize='40px' mr={0} />
+          <AlertTitle mt={4} mb={1} fontSize='lg'>
+            Application submitted!
+          </AlertTitle>
+          <AlertDescription maxWidth='sm'>
+            Thanks for submitting your application. Our team will get back to you soon.
+          </AlertDescription>
+          <Button>Ok</Button>
+        </Alert>
+      }
+
     return (
         <>
         <div style={{position:"relative",top:"300px" }}>
@@ -128,7 +192,9 @@ lg:"repeat(1,1fr)" }} gap={6}>
          <Button isLoading={qtyloading ? true : false} colorScheme='red'>{ el.quantity }</Button>
          <Button  onClick={()=>handleqtyinc(el.quantity,el.id)} colorScheme='blue'>+</Button>
          </Box>
+         
        </GridItem>
+     
    })}
  </Grid>
  </Box>
@@ -139,10 +205,40 @@ lg:"repeat(1,1fr)" }} gap={6}>
         <div style={{position:"fixed",bottom:"0",border:"1px solid red",width:"30%",padding:"20px"
       }}>
        <Flex>
-       <Text as="b" fontSize="2xl">Total Rs : 0</Text>
+       <Text as="b" fontSize="2xl">Total Rs : {totalprice}</Text>
        <Spacer />
-       <Button w="40%" colorScheme='whatsapp' bg="black">CONTINUE</Button>
+       <Button w="40%" colorScheme='whatsapp' bg="black" onClick={onOpen}>CONTINUE</Button>
        </Flex>
+
+       <AlertDialog
+        motionPreset='slideInBottom'
+        leastDestructiveRef={cancelRef}
+        onClose={onClose}
+        isOpen={isOpen}
+        isCentered
+      >
+        <AlertDialogOverlay />
+
+        <AlertDialogContent>
+          <AlertDialogHeader>Cofirm Payment?</AlertDialogHeader>
+          <AlertDialogCloseButton />
+          <AlertDialogBody>
+            Are you sure  want to purchase all your item of cart 
+          </AlertDialogBody>
+          <AlertDialogFooter>
+            <Button ref={cancelRef} onClick={onClose}>
+              No
+            </Button>
+            <Button colorScheme='red' ml={3} onClick={()=>setispayment(true)}>
+              Yes
+            </Button>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
+
+
+
+
      </div>
      </>
     )

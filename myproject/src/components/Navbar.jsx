@@ -118,7 +118,7 @@ function Navbar(){
    color={state.isNothomepage ? "black" : "gray"} />
   <ButtonGroup gap='4' >
    
-   <Button color={state.isNothomepage ? "black" : "gray"} bg={state.isNothomepage ? "white" : "black"}>Log in</Button>
+   <Button color={state.isNothomepage ? "black" : "gray"} bg={state.isNothomepage ? "white" : "black"}><Link to="/login">Log in</Link></Button>
    <Button color={state.isNothomepage ? "black" : "gray"} bg={state.isNothomepage ? "white" : "black"}>Help</Button>
  </ButtonGroup>
   </Flex >

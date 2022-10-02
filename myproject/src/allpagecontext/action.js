@@ -26,3 +26,7 @@ export const CART_DATA_REQUEST={type:"cart_data_request"}
 export const CART_DATA_SUCCESS={type:"cart_data_success"}
 export const CART_DATA_FAILURE={type:"cart_data_failure"}
 
+// authorize user
+
+export const AUTHORISE_USER={type:"authorise_user"}
+

@@ -82,7 +82,13 @@ function reducer(state,action){
                                     ...state,
                                     isCartdataloading:false,
                                     isCartdataerror:true
-                                }                   
+                                }     
+                                
+                                case "authorise_user":
+                                    return {
+                                        ...state,
+                                        isAuth:true
+                                    }
                                       
    }
 }
